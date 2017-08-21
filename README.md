@@ -15,11 +15,11 @@
 * [补充说明](###补充说明)
 
 ## 机器学习理论(2.和3.任选其一)
-#### 1.机器学习课程	
+#### 1.机器学习	
 + **课程视频：台湾大学李弘毅教授的[机器学习课程](https://www.youtube.com/watch?v=fegAeph9UaA&list=PLJV_el3uVTsPy9oCRY30oBPNLCo89yu49)**
 + 课程视频：Andrew Ng的在Stanford开设的[机器学习课程](https://www.youtube.com/watch?v=UzxYlbK2c7E&list=PLA89DCFA6ADACE599)
 
-#### 2.强化学习课程
+#### 2.强化学习
 + **图书：Sutton的[强化学习](http://incompleteideas.net/sutton/book/the-book.html)**
 + **课程视频：David Siver的[强化学习](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PL7-jPKtc4r78-wCZcQn5IqyuWhBZ8fOxT)**
 + **实践环境：[OPENAI](https://openai.com/)**
@@ -27,7 +27,7 @@
 #### 3.图像处理
 + **课程视频：Feifei Li在Stanford开设的[面向可视化识别的卷积神经元网络](http://cs231n.stanford.edu/)**
 
-#### 4.深度学习课程
+#### 4.深度学习
 + **图书：Sutton的[深度学习](http://www.deeplearningbook.org/)**
 + **课程视频：台湾大学李弘毅教授的[深度学习](https://www.youtube.com/watch?v=IzHoNwlCGnE&list=PLJV_el3uVTsPMxPbjeX7PicgWbY7F8wW9)**
 + 课程视频：多伦多大学Hinton教授的[深度学习](https://www.youtube.com/watch?v=cbeTc-Urqak&list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9)
