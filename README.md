@@ -1,4 +1,4 @@
-
+﻿
 # 半年内学习、工作的建议内容
 
 > 凡事预则立，不预则不立。
@@ -14,7 +14,7 @@
 * [其它资源](###其它资源)
 * [补充说明](###补充说明)
 
-## 机器学习理论(2.和3.任选其一)
+## 机器学习理论(2，3和4任选其一)
 #### 1.机器学习	
 + **课程视频：台湾大学李弘毅教授的[机器学习课程](https://www.youtube.com/watch?v=fegAeph9UaA&list=PLJV_el3uVTsPy9oCRY30oBPNLCo89yu49)**
 + 课程视频：Andrew Ng的在Stanford开设的[机器学习课程](https://www.youtube.com/watch?v=UzxYlbK2c7E&list=PLA89DCFA6ADACE599)
@@ -27,13 +27,16 @@
 #### 3.图像处理
 + **课程视频：Feifei Li在Stanford开设的[面向可视化识别的卷积神经元网络](http://cs231n.stanford.edu/)**
 
-#### 4.深度学习
+#### 4.自然语言处理
++ **课程视频：Chris Manning在Stanford开设的[自然语言处理及其深度学习方法](http://web.stanford.edu/class/cs224n/)**
+
+#### 5.深度学习
 + **图书：Sutton的[深度学习](http://www.deeplearningbook.org/)**
 + **课程视频：台湾大学李弘毅教授的[深度学习](https://www.youtube.com/watch?v=IzHoNwlCGnE&list=PLJV_el3uVTsPMxPbjeX7PicgWbY7F8wW9)**
 + 课程视频：多伦多大学Hinton教授的[深度学习](https://www.youtube.com/watch?v=cbeTc-Urqak&list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9)
 
 ## 数学基础	
-+ **课程视频：Gilbert Strang在MIT开设的[线性代数](https://www.youtube.com/watch?v=ZK3O402wf1c&list=PL49CF3715CB9EF31D)**
++ **课程视频：Gilbert Strang在MIT开设的[线性代数](https://www.youtube.com/watch?v=ZK3O402wf1c&list=PL49CF3715CB9EF31D)带中文字幕的[网易云课堂](http://open.163.com/special/opencourse/daishu.html)**
 + **图书：清华大学张贤达的[《矩阵分析与应用（第2版）》](https://item.jd.com/11367945.html)**
 + *图书：美国工程院院士Dimitri P. Bertsekas的[《Introduction to Probability》](https://item.jd.com/11842157.html)*
 
