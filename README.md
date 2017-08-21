@@ -20,9 +20,9 @@
 + 课程视频：Andrew Ng的在Stanford开设的[机器学习课程](https://www.youtube.com/watch?v=UzxYlbK2c7E&list=PLA89DCFA6ADACE599)
 
 #### 2.强化学习课程
-+ **图书：Sutton的[强化学习](#http://incompleteideas.net/sutton/book/the-book.html)**
-+ **课程视频：David Siver的[强化学习](#https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PL7-jPKtc4r78-wCZcQn5IqyuWhBZ8fOxT)**
-+ **实践环境：[OPENAI](#https://openai.com/)**
++ **图书：Sutton的[强化学习](http://incompleteideas.net/sutton/book/the-book.html)**
++ **课程视频：David Siver的[强化学习](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PL7-jPKtc4r78-wCZcQn5IqyuWhBZ8fOxT)**
++ **实践环境：[OPENAI](https://openai.com/)**
 
 #### 3.图像处理
 + **课程视频：Feifei Li在Stanford开设的[面向可视化识别的卷积神经元网络](http://cs231n.stanford.edu/)**
