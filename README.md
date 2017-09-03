@@ -64,4 +64,4 @@
 
 ## 其它资源列表
 + [深度学习与机器学习路线图](https://github.com/SherlockLiao/Roadmap-of-DL-and-ML/blob/master/README_cn.md)
-+ 重要的机器学习、深度学习会议的演讲视频[http://videolectures.net/](http://videolectures.net/)
++ 重要的机器学习、深度学习会议的演讲视频[videolectures](http://videolectures.net/)
