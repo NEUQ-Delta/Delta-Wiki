@@ -26,7 +26,7 @@
 
 #### 3.图像处理
 + **课程视频：Feifei Li在Stanford开设的[面向可视化识别的卷积神经元网络](http://cs231n.stanford.edu/)**
-+ Youtube的[ComputerVisionFoundation Videos频道](https://www.youtube.com/channel/UC0n76gicaarsN_Y9YShWwhw/playlists)
++ Youtube的[ComputerVisionFoundation频道](https://www.youtube.com/channel/UC0n76gicaarsN_Y9YShWwhw/playlists)
 
 #### 4.自然语言处理
 + **课程视频：Chris Manning在Stanford开设的[自然语言处理及其深度学习方法](http://web.stanford.edu/class/cs224n/)**
