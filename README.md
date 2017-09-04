@@ -24,10 +24,10 @@
 + **课程视频：David Siver的[强化学习](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PL7-jPKtc4r78-wCZcQn5IqyuWhBZ8fOxT)**
 + **实践环境：[OPENAI](https://openai.com/)**
 + github推荐：
-     - [Implementation of Reinforcement Learning Algorithms]. Python, OpenAI Gym, Tensorflow. Exercises and Solutions to accompany Sutton's Book and David Silver's course.(https://github.com/dennybritz/reinforcement-learning)
-     - [Python code for Reinforcement Learning: An Introduction](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction)
-     - [Minimal and Clean Reinforcement Learning Examples](https://github.com/rlcode/reinforcement-learning)
-     - [Deep Reinforcement Learning Papers](https://github.com/dennybritz/reinforcement-learning)
+ - [Implementation of Reinforcement Learning Algorithms](https://github.com/dennybritz/reinforcement-learning). Python, OpenAI Gym, Tensorflow. Exercises and Solutions to accompany Sutton's Book and David Silver's course.
+ - [Python code for Reinforcement Learning: An Introduction](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction)
+ - [Minimal and Clean Reinforcement Learning Examples](https://github.com/rlcode/reinforcement-learning)
+ - [Deep Reinforcement Learning Papers](https://github.com/dennybritz/reinforcement-learning)
 
 #### 3.图像处理
 + **课程视频：Feifei Li在Stanford开设的[面向可视化识别的卷积神经元网络](http://cs231n.stanford.edu/)**
