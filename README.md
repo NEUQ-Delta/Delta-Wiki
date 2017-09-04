@@ -40,7 +40,7 @@
 + 王晋东不在家的[迁移学习资料列表](https://github.com/wantingallin/transferlearning)
 
 #### 6.推理与机器学习结合
-+ 康奈尔大学的CS7792 [Counterfactual Machine Learning课件等资源]https://www.cs.cornell.edu/courses/cs7792/2016fa/
++ 康奈尔大学的CS7792 [Counterfactual Machine Learning课件等资源](https://www.cs.cornell.edu/courses/cs7792/2016fa/)
 
 #### 7.深度学习
 + **图书：GoodFello的[深度学习](http://www.deeplearningbook.org/)**
