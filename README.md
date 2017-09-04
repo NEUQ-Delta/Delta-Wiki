@@ -14,7 +14,7 @@
 * [其它资源](###其它资源)
 * [补充说明](###补充说明)
 
-## 机器学习理论(2，3和4任选其一)
+## 机器学习理论(2~6 任选其一)
 #### 1.机器学习	
 + **课程视频：台湾大学李弘毅教授的[机器学习课程](https://www.youtube.com/watch?v=fegAeph9UaA&list=PLJV_el3uVTsPy9oCRY30oBPNLCo89yu49)**
 + 课程视频：Andrew Ng的在Stanford开设的[机器学习课程](https://www.youtube.com/watch?v=UzxYlbK2c7E&list=PLA89DCFA6ADACE599)
@@ -30,8 +30,14 @@
 #### 4.自然语言处理
 + **课程视频：Chris Manning在Stanford开设的[自然语言处理及其深度学习方法](http://web.stanford.edu/class/cs224n/)**
 
-#### 5.深度学习
-+ **图书：GoodFellow的[深度学习](http://www.deeplearningbook.org/)**
+#### 5.迁移学习
++ 王晋东不在家的[迁移学习资料列表](https://github.com/wantingallin/transferlearning)
+
+#### 6.推理与机器学习结合
++ 康奈尔大学的CS7792 [Counterfactual Machine Learning课件等资源]https://www.cs.cornell.edu/courses/cs7792/2016fa/
+
+#### 7.深度学习
++ **图书：GoodFello的[深度学习](http://www.deeplearningbook.org/)**
 + **课程视频：台湾大学李弘毅教授的[深度学习](https://www.youtube.com/watch?v=IzHoNwlCGnE&list=PLJV_el3uVTsPMxPbjeX7PicgWbY7F8wW9)**
 + 课程视频：多伦多大学Hinton教授的[深度学习](https://www.youtube.com/watch?v=cbeTc-Urqak&list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9)
 
