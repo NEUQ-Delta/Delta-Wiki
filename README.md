@@ -54,9 +54,12 @@
 
 ## 工程实践
 + **能熟练运用Git；**
-+ **掌握Python语言，熟悉Numpy、Pandas、Matplotlib等库；**
-+ **会用Sklearn等机器学习工具包；**
-+ **掌握TensorFlow等深度学习框架；**
++ **掌握Python语言，熟悉各种常用工具** [教程1](https://github.com/jrjohansson/scientific-python-lectures)、[教程2](https://github.com/ipython-books/cookbook-code)、[教程3](https://github.com/DonJayamanne/pythonVSCode)、[教程4(中文)](https://github.com/lijin-THU/notes-python)、[教程5](https://github.com/donnemartin/data-science-ipython-notebooks)、[Cheatsheets](https://github.com/kailashahirwar/cheatsheets-ai)
+  - Numpy [练习](https://github.com/Kyubyong/numpy_exercises)
+  - Pandas [练习](https://github.com/guipsamora/pandas_exercises)
+  - Matplotlib [教程](https://github.com/rougier/matplotlib-tutorial)
++ **会用Sklearn等机器学习工具包** [教程](https://github.com/pandas-dev/sklearn-pandas)
++ **掌握TensorFlow等深度学习框架**  [练习](https://github.com/Kyubyong/tensorflow-exercises) 
 + **阅读重要开源软件的源码；**
 + 掌握C/C++或Java语言。
 
