@@ -16,12 +16,12 @@
 
 ## 机器学习理论(2~6 任选其一)
 #### 1.机器学习	
-+ **课程视频：台湾大学李宏毅教授的[机器学习课程](https://www.youtube.com/watch?v=fegAeph9UaA&list=PLJV_el3uVTsPy9oCRY30oBPNLCo89yu49)**
-+ 课程视频：Andrew Ng的在Stanford开设的[机器学习课程](https://www.youtube.com/watch?v=UzxYlbK2c7E&list=PLA89DCFA6ADACE599)
++ **课程视频：台湾大学[李宏毅](http://speech.ee.ntu.edu.tw/~tlkagk/)教授的[机器学习课程](https://www.youtube.com/watch?v=fegAeph9UaA&list=PLJV_el3uVTsPy9oCRY30oBPNLCo89yu49)**
++ 课程视频：[Andrew Ng](http://www.andrewng.org/)的在Stanford开设的[机器学习课程](https://www.youtube.com/watch?v=UzxYlbK2c7E&list=PLA89DCFA6ADACE599)
 
 #### 2.强化学习
-+ **图书：Sutton的[强化学习](http://incompleteideas.net/sutton/book/the-book.html)**
-+ **课程视频：David Siver的[强化学习](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PL7-jPKtc4r78-wCZcQn5IqyuWhBZ8fOxT)**
++ **图书：[Sutton](http://incompleteideas.net/sutton/)的[强化学习](http://incompleteideas.net/sutton/book/the-book.html)**
++ **课程视频：[David Siver](http://www.csml.ucl.ac.uk/people/silver/)的[强化学习](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PL7-jPKtc4r78-wCZcQn5IqyuWhBZ8fOxT)**
 + **实践环境：[OPENAI](https://openai.com/)**
 + github推荐：
   - [Implementation of Reinforcement Learning Algorithms](https://github.com/dennybritz/reinforcement-learning). Python, OpenAI Gym, Tensorflow. Exercises and Solutions to accompany Sutton's Book and David Silver's course.
@@ -32,13 +32,13 @@
   - [Deep Reinforcement Learning Papers 2](https://zhuanlan.zhihu.com/p/23600620)
 
 #### 3.图像处理
-+ **课程视频：Feifei Li在Stanford开设的[面向可视化识别的卷积神经元网络](http://cs231n.stanford.edu/)**
++ **课程视频：[Feifei Li](http://vision.stanford.edu/feifeili/)在Stanford开设的[面向可视化识别的卷积神经元网络](http://cs231n.stanford.edu/)**
 + Youtube的[ComputerVisionFoundation频道](https://www.youtube.com/channel/UC0n76gicaarsN_Y9YShWwhw/playlists)
 
 #### 4.自然语言处理
 + **课程视频：Chris Manning在Stanford开设的[自然语言处理及其深度学习方法](http://web.stanford.edu/class/cs224n/)**
-+ 东北大学朱靖波、肖桐老师等开发的开源软件[小牛翻译](http://www.niutrans.com/)
-+ 复旦大学[邱锡鹏](http://nlp.fudan.edu.cn/xpqiu/)的开源书[神经网络与深度学习](https://nndl.github.io/)
++ 东北大学[朱靖波](http://www.cse.neu.edu.cn/TeacherSinglePage.aspx?teacher_id=a7aef635-aa4d-4c67-892b-6d32dac5d54c&navigation_id=798670aa-6c90-42a3-88de-42ca6e413ba6&module=%u6559%u5E08%u540D%u5F55)、[肖桐](http://www.cse.neu.edu.cn/TeacherSinglePage.aspx?teacher_id=338cc497-24c6-460d-a23f-1ab5a381e3f2&navigation_id=798670aa-6c90-42a3-88de-42ca6e413ba6&module=%u6559%u5E08%u540D%u5F55)老师的自然语言处理开源软件[小牛翻译](http://www.nlplab.com/NiuPlan/NiuTrans.ch.html)
++ 复旦大学[邱锡鹏](http://nlp.fudan.edu.cn/xpqiu/)的[自然语言处理开源书](https://github.com/nndl/nndl.github.io)
 
 #### 5.迁移学习
 + 王晋东不在家的[迁移学习资料列表](https://github.com/wantingallin/transferlearning)
@@ -48,14 +48,14 @@
 
 #### 7.深度学习
 + **图书：GoodFello的[深度学习](http://www.deeplearningbook.org/)**
-+ **课程视频：台湾大学李宏毅教授的[深度学习](https://www.youtube.com/watch?v=IzHoNwlCGnE&list=PLJV_el3uVTsPMxPbjeX7PicgWbY7F8wW9)**
-+ 课程视频：多伦多大学Hinton教授的[深度学习](https://www.youtube.com/watch?v=cbeTc-Urqak&list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9)
-+ 李沐的[深度学习实践课程](http://zh.gluon.ai/index.html)
++ **课程视频：台湾大学[李宏毅](http://speech.ee.ntu.edu.tw/~tlkagk/)教授的[深度学习](https://www.youtube.com/watch?v=IzHoNwlCGnE&list=PLJV_el3uVTsPMxPbjeX7PicgWbY7F8wW9)**
++ 课程视频：多伦多大学[Hinton](http://www.cs.toronto.edu/~hinton/)教授的[深度学习](https://www.youtube.com/watch?v=cbeTc-Urqak&list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9)
++ [李沐](https://zhuanlan.zhihu.com/p/25099638)的[深度学习实践课程](http://zh.gluon.ai/index.html)
 
 ## 数学基础	
 + **课程视频：Gilbert Strang在MIT开设的[线性代数](https://www.youtube.com/watch?v=ZK3O402wf1c&list=PL49CF3715CB9EF31D)带中文字幕的[网易云课堂](http://open.163.com/special/opencourse/daishu.html)**
 + **图书：清华大学张贤达的[《矩阵分析与应用（第2版）》](https://item.jd.com/11367945.html)**
-+ *图书：美国工程院院士Dimitri P. Bertsekas的[《Introduction to Probability》](https://item.jd.com/11842157.html)*
++ *图书：美国工程院院士[Dimitri P. Bertsekas](http://www.mit.edu/~dimitrib/home.html)的[《Introduction to Probability》](https://item.jd.com/11842157.html)*
 
 ## 工程实践
 + **能熟练运用Git；**
@@ -69,7 +69,6 @@
 + 掌握C/C++或Java语言。
 
 ## 论文和讲座
-+ 习惯使用Endnote等学术论文管理工具；
 + 阅读感兴趣方向的经典、或前沿的学术论文；
 + 定期对系列算法、方法、工程实践经验进行汇报讲座。
 
