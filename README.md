@@ -16,7 +16,7 @@
 
 ## 机器学习理论(2~6 任选其一)
 #### 1.机器学习	
-+ **课程视频：台湾大学李弘毅教授的[机器学习课程](https://www.youtube.com/watch?v=fegAeph9UaA&list=PLJV_el3uVTsPy9oCRY30oBPNLCo89yu49)**
++ **课程视频：台湾大学李宏毅教授的[机器学习课程](https://www.youtube.com/watch?v=fegAeph9UaA&list=PLJV_el3uVTsPy9oCRY30oBPNLCo89yu49)**
 + 课程视频：Andrew Ng的在Stanford开设的[机器学习课程](https://www.youtube.com/watch?v=UzxYlbK2c7E&list=PLA89DCFA6ADACE599)
 
 #### 2.强化学习
@@ -37,6 +37,8 @@
 
 #### 4.自然语言处理
 + **课程视频：Chris Manning在Stanford开设的[自然语言处理及其深度学习方法](http://web.stanford.edu/class/cs224n/)**
++ 东北大学朱靖波、肖桐老师等开发的开源软件[小牛翻译](http://www.niutrans.com/)
++ 复旦大学[邱锡鹏](http://nlp.fudan.edu.cn/xpqiu/)的开源书[神经网络与深度学习](https://nndl.github.io/)
 
 #### 5.迁移学习
 + 王晋东不在家的[迁移学习资料列表](https://github.com/wantingallin/transferlearning)
@@ -46,7 +48,7 @@
 
 #### 7.深度学习
 + **图书：GoodFello的[深度学习](http://www.deeplearningbook.org/)**
-+ **课程视频：台湾大学李弘毅教授的[深度学习](https://www.youtube.com/watch?v=IzHoNwlCGnE&list=PLJV_el3uVTsPMxPbjeX7PicgWbY7F8wW9)**
++ **课程视频：台湾大学李宏毅教授的[深度学习](https://www.youtube.com/watch?v=IzHoNwlCGnE&list=PLJV_el3uVTsPMxPbjeX7PicgWbY7F8wW9)**
 + 课程视频：多伦多大学Hinton教授的[深度学习](https://www.youtube.com/watch?v=cbeTc-Urqak&list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9)
 + 李沐的[深度学习实践课程](http://zh.gluon.ai/index.html)
 
@@ -67,6 +69,7 @@
 + 掌握C/C++或Java语言。
 
 ## 论文和讲座
++ 习惯使用Endnote等学术论文管理工具；
 + 阅读感兴趣方向的经典、或前沿的学术论文；
 + 定期对系列算法、方法、工程实践经验进行汇报讲座。
 
