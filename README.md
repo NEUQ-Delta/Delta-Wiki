@@ -48,6 +48,7 @@
 + **图书：GoodFello的[深度学习](http://www.deeplearningbook.org/)**
 + **课程视频：台湾大学李弘毅教授的[深度学习](https://www.youtube.com/watch?v=IzHoNwlCGnE&list=PLJV_el3uVTsPMxPbjeX7PicgWbY7F8wW9)**
 + 课程视频：多伦多大学Hinton教授的[深度学习](https://www.youtube.com/watch?v=cbeTc-Urqak&list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9)
++ 李沐的[深度学习实践课程](http://zh.gluon.ai/index.html)
 
 ## 数学基础	
 + **课程视频：Gilbert Strang在MIT开设的[线性代数](https://www.youtube.com/watch?v=ZK3O402wf1c&list=PL49CF3715CB9EF31D)带中文字幕的[网易云课堂](http://open.163.com/special/opencourse/daishu.html)**
