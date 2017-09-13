@@ -11,10 +11,12 @@
 * [数学基础](###数学基础)
 * [工程实践](###工程实践)
 * [论文和讲座](###论文和讲座)
-* [其它资源](###其它资源)
-* [补充说明](###补充说明)
+* [学习路线](###学习路线)
+* [好东西列表](###好东西列表)
 
-## 机器学习理论(2~6 任选其一)
+## 机器学习理论
+> 内容建议：`1.机器学习` + `2.~6.中任选` + `7.深度学习`
+
 #### 1.机器学习	
 + **课程视频：台湾大学[李宏毅](http://speech.ee.ntu.edu.tw/~tlkagk/)教授的[机器学习课程](https://www.youtube.com/watch?v=fegAeph9UaA&list=PLJV_el3uVTsPy9oCRY30oBPNLCo89yu49)**
 + 课程视频：[Andrew Ng](http://www.andrewng.org/)的在Stanford开设的[机器学习课程](https://www.youtube.com/watch?v=UzxYlbK2c7E&list=PLA89DCFA6ADACE599)
@@ -52,6 +54,7 @@
 + **课程视频：台湾大学[李宏毅](http://speech.ee.ntu.edu.tw/~tlkagk/)教授的[深度学习](https://www.youtube.com/watch?v=IzHoNwlCGnE&list=PLJV_el3uVTsPMxPbjeX7PicgWbY7F8wW9)**
 + 课程视频：多伦多大学[Hinton](http://www.cs.toronto.edu/~hinton/)教授的[深度学习](https://www.youtube.com/watch?v=cbeTc-Urqak&list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9)
 + [李沐](https://zhuanlan.zhihu.com/p/25099638)的[深度学习实践课程](http://zh.gluon.ai/index.html)
++ [深度学习与机器学习路线图](https://github.com/SherlockLiao/Roadmap-of-DL-and-ML/blob/master/README_cn.md)
 
 ## 数学基础	
 + **课程视频：Gilbert Strang在MIT开设的[线性代数](https://www.youtube.com/watch?v=ZK3O402wf1c&list=PL49CF3715CB9EF31D)带中文字幕的[网易云课堂](http://open.163.com/special/opencourse/daishu.html)**
@@ -74,16 +77,21 @@
 + 阅读感兴趣方向的经典、或前沿的学术论文；
 + 定期对系列算法、方法、工程实践经验进行汇报讲座。
 
-## 其它资源（Youtube上比较出彩的频道）
-+ 周莫烦。知乎大V。通俗易懂，看不下去论文的时候，找他。
-+ Siraj Raval。工程师届的著名演员和导演^-^。学术视频，大片质量；紧跟前沿，轻松诙谐；有一定深度。
-+ Sendex。实战狂人，实践入门最佳帮手。问题现说，代码现敲，说理透彻，产量极高。
-
-## 补充说明
+## 学习路线
++ 避免过拟合学习：不要贪多求全，many could be better than all! [论证:joy:](https://pdfs.semanticscholar.org/1fbf/32e5312610fc575259640e1e5f2acf62e652.pdf)
 + 优先级：秉承由易到难的原则，**粗体**为现阶段必须学习内容。但是，数学基础无论如何也逃不过，逃不过啊，逃不过...
 + 视频课程选择标准：1）公认好课；2）难度与自我水平匹配；3）有课后作业，可以自动评判答案。
 + 视频课程不能取代阅读领域经典教材；学习教材的目的是为了得到良好知识体系，更快理解前沿学术论文；有突破性的idea不可能通过只读论文就得到，离开实验和实践的环节，所谓的灵感可能只是海市蜃楼般的错觉。读论文、做实验、读论文、做实验...biu...顶级论文（2030年）:joy:
 
-## 其它资源列表
-+ [深度学习与机器学习路线图](https://github.com/SherlockLiao/Roadmap-of-DL-and-ML/blob/master/README_cn.md)
+## 好东西列表
++ [嗖...](http://memect.com/)    [好东西传送门](http://weibo.com/haoawesome?refer_flag=1005055014_&is_hot=1)    [机器学习日报新版](http://forum.ai100.com.cn/page/745/) 
++ [Paper weekly](http://rsarxiv.github.io/)
+
++ [知乎](www.zhihu.com)
++ [quora](https://www.quora.com/)
+
 + 重要的机器学习、深度学习会议的演讲视频可以在[videolectures](http://videolectures.net/)找到
++ [youtube](www.youtube.com)
+  - 周莫烦。知乎大V。通俗易懂，看不下去论文的时候，找他。
+  - Siraj Raval。工程师届的著名演员和导演^-^。学术视频，大片质量；紧跟前沿，轻松诙谐；有一定深度。
+  - Sendex。实战狂人，实践入门最佳帮手。问题现说，代码现敲，说理透彻，产量极高。
