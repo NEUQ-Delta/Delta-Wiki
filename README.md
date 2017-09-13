@@ -96,7 +96,7 @@
 + [Paper weekly](http://rsarxiv.github.io/)
 + [知乎](www.zhihu.com)
 + [quora](https://www.quora.com/)
-+ 重要的机器学习、深度学习会议的演讲视频可以在[videolectures](http://videolectures.net/)找到
++ [videolectures](http://videolectures.net/)重要的机器学习、深度学习会议的演讲视频可以在这里找到。
 + [youtube](www.youtube.com)
   - [周莫烦](https://www.youtube.com/user/MorvanZhou/playlists)。知乎大V。通俗易懂，看不下去论文的时候，找他。
   - [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A/playlists)。工程师届的著名演员和导演^-^。学术视频，大片质量；紧跟前沿，轻松诙谐；有一定深度。
