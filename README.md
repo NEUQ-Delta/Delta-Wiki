@@ -62,7 +62,7 @@
 + **课程视频：Gilbert Strang在MIT开设的[线性代数](https://www.youtube.com/watch?v=ZK3O402wf1c&list=PL49CF3715CB9EF31D)带中文字幕的[网易云课堂](http://open.163.com/special/opencourse/daishu.html)**
 + **图书：清华大学张贤达的[《矩阵分析与应用（第2版）》](https://item.jd.com/11367945.html)**
 + *图书：美国工程院院士[Dimitri P. Bertsekas](http://www.mit.edu/~dimitrib/home.html)的[《Introduction to Probability》](https://item.jd.com/11842157.html)*
-+ 视频：essence of linear algebra
++ Youtube上的视频：[essence of linear algebra](https://www.youtube.com/watch?v=kjBOesZCoqc&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 
 ## 工程实践
 + **能熟练运用Git；**
@@ -95,4 +95,5 @@
   - [周莫烦](https://www.youtube.com/user/MorvanZhou/playlists)。知乎大V。通俗易懂，看不下去论文的时候，找他。
   - [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A/playlists)。工程师届的著名演员和导演^-^。学术视频，大片质量；紧跟前沿，轻松诙谐；有一定深度。
   - [Sendex](https://www.youtube.com/user/sentdex)。实战狂人，实践入门最佳帮手。问题现说，代码现敲，说理透彻，产量极高。
+  - [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)。相信我，你一定喜欢这个家伙讲数学的！！！
 + [github](www.github.com)
