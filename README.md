@@ -92,6 +92,6 @@
 
 + 重要的机器学习、深度学习会议的演讲视频可以在[videolectures](http://videolectures.net/)找到
 + [youtube](www.youtube.com)
-  - 周莫烦。知乎大V。通俗易懂，看不下去论文的时候，找他。
-  - Siraj Raval。工程师届的著名演员和导演^-^。学术视频，大片质量；紧跟前沿，轻松诙谐；有一定深度。
-  - Sendex。实战狂人，实践入门最佳帮手。问题现说，代码现敲，说理透彻，产量极高。
+  - 周莫烦[https://www.youtube.com/user/MorvanZhou/playlists]。知乎大V。通俗易懂，看不下去论文的时候，找他。
+  - [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A/playlists)。工程师届的著名演员和导演^-^。学术视频，大片质量；紧跟前沿，轻松诙谐；有一定深度。
+  - [Sendex](https://www.youtube.com/user/sentdex)。实战狂人，实践入门最佳帮手。问题现说，代码现敲，说理透彻，产量极高。
