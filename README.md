@@ -65,6 +65,7 @@
 + Youtube上的视频：[essence of linear algebra](https://www.youtube.com/watch?v=kjBOesZCoqc&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 
 ## 工程实践
+#### 1、工具和技能
 + **能熟练运用Git；**
 + **掌握Python语言，熟悉各种常用工具** [教程1](https://github.com/jrjohansson/scientific-python-lectures)、[教程2](https://github.com/ipython-books/cookbook-code)、[教程3](https://github.com/DonJayamanne/pythonVSCode)、[教程4(中文)](https://github.com/lijin-THU/notes-python)、[教程5](https://github.com/donnemartin/data-science-ipython-notebooks)、[Cheatsheets](https://github.com/kailashahirwar/cheatsheets-ai)
   - Numpy [练习](https://github.com/Kyubyong/numpy_exercises)
@@ -74,6 +75,11 @@
 + **掌握TensorFlow等深度学习框架**  [练习](https://github.com/Kyubyong/tensorflow-exercises) 
 + **阅读重要开源软件的源码；**
 + 掌握C/C++或Java语言。
+#### 2、竞赛
++ [kaggle](https://www.kaggle.com/)
++ 李开复、搜狗王小川、今日头条张一鸣等发起的[全球AI挑战赛](https://challenger.ai/)
+  - [图片场景分类](https://challenger.ai/competition/scene)
+  - [骨骼关节点标注](https://challenger.ai/competition/keypoint)
 
 ## 论文和讲座
 + 阅读感兴趣方向的经典、或前沿的学术论文；
