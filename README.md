@@ -97,7 +97,7 @@
 + [知乎](www.zhihu.com)
 + [quora](https://www.quora.com/)
 + [videolectures](http://videolectures.net/)重要的机器学习、深度学习会议的演讲视频可以在这里找到。
-+ [youtube](www.youtube.com)。发展的最大障碍，就是知识壁垒、信息壁垒。不想浸没在二手信息世界里，请穿墙而过，成为哈利波特大魔法师！
++ [youtube](www.youtube.com)。知识与信息壁垒是发展最大的障碍。不想浸没在二手信息世界里，请穿墙而过，成为哈利波特大魔法师！
   - [周莫烦](https://www.youtube.com/user/MorvanZhou/playlists)。知乎大V。通俗易懂，看不下去论文的时候，找他。
   - [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A/playlists)。工程师届的著名演员和导演^-^。学术视频，大片质量；紧跟前沿，轻松诙谐；有一定深度。
   - [Sendex](https://www.youtube.com/user/sentdex)。实战狂人，实践入门最佳帮手。问题现说，代码现敲，说理透彻，产量极高。
