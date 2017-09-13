@@ -78,7 +78,7 @@
 + 定期对系列算法、方法、工程实践经验进行汇报讲座。
 
 ## 学习路线
-+ 避免过拟合学习：不要贪多求全，many could be better than all! [论证:joy:](https://pdfs.semanticscholar.org/1fbf/32e5312610fc575259640e1e5f2acf62e652.pdf)
++ 避免过拟合学习,避免贪多求全,尽量举一反三：many could be better than all! [论证:joy:](https://pdfs.semanticscholar.org/1fbf/32e5312610fc575259640e1e5f2acf62e652.pdf)
 + 优先级：秉承由易到难的原则，**粗体**为现阶段必须学习内容。但是，数学基础无论如何也逃不过，逃不过啊，逃不过...
 + 视频课程选择标准：1）公认好课；2）难度与自我水平匹配；3）有课后作业，可以自动评判答案。
 + 视频课程不能取代阅读领域经典教材；学习教材的目的是为了得到良好知识体系，更快理解前沿学术论文；有突破性的idea不可能通过只读论文就得到，离开实验和实践的环节，所谓的灵感可能只是海市蜃楼般的错觉。读论文、做实验、读论文、做实验...biu...顶级论文（2030年）:joy:
@@ -92,6 +92,6 @@
 
 + 重要的机器学习、深度学习会议的演讲视频可以在[videolectures](http://videolectures.net/)找到
 + [youtube](www.youtube.com)
-  - 周莫烦[https://www.youtube.com/user/MorvanZhou/playlists]。知乎大V。通俗易懂，看不下去论文的时候，找他。
+  - 周莫烦(https://www.youtube.com/user/MorvanZhou/playlists)。知乎大V。通俗易懂，看不下去论文的时候，找他。
   - [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A/playlists)。工程师届的著名演员和导演^-^。学术视频，大片质量；紧跟前沿，轻松诙谐；有一定深度。
   - [Sendex](https://www.youtube.com/user/sentdex)。实战狂人，实践入门最佳帮手。问题现说，代码现敲，说理透彻，产量极高。
