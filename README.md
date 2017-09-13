@@ -2,7 +2,7 @@
 
 > 凡事预则立，不预则不立。
 
-这个[markdown格式](https://github.com/guodongxiaren/README)的列表是根据洪康杰同学的建议，由mutong维护；实践部分请惠彬原补充；各位同学可以在此基础上继续完善。
+该[markdown格式](https://github.com/guodongxiaren/README)列表根据洪康杰同学的建议建立，由mutong维护；实践部分请惠彬原补充；各位同学可以在此基础上继续完善。
 大三同学，要据此形成一个**有明确时间顺序的具体计划**。
 
 ## 目录
