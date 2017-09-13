@@ -103,3 +103,4 @@
   - [Sendex](https://www.youtube.com/user/sentdex)。实战狂人，实践入门最佳帮手。问题现说，代码现敲，说理透彻，产量极高。
   - [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)、[MathTheBeautiful](https://www.youtube.com/channel/UCr22xikWUK2yUW4YxOKXclQ/playlists)。相信我，你一定喜欢这些家伙讲数学的！！！
 + [github](www.github.com)
++ [Coursera](www.coursera.org)、[Edx](www.edx.org)、[Edxedge](https://edge.edx.org/login)、[**`Udacity`**](https://cn.udacity.com/)、[Udemy](https://www.udemy.com/)、[学堂在线](http://www.xuetangx.com/)
