@@ -15,13 +15,13 @@
 * [好东西一箩筐](#好东西一箩筐)
 
 ## 机器学习理论
-> 内容建议：`1.机器学习` + `2.~6.中任选` + `7.深度学习`
+> 内容建议：`1机器学习` + `2~6中任选` + `7深度学习`
 
-#### 1.机器学习	
+#### 1、机器学习	
 + **课程视频：台湾大学[李宏毅](http://speech.ee.ntu.edu.tw/~tlkagk/)教授的[机器学习课程](https://www.youtube.com/watch?v=fegAeph9UaA&list=PLJV_el3uVTsPy9oCRY30oBPNLCo89yu49)**
 + 课程视频：[Andrew Ng](http://www.andrewng.org/)的在Stanford开设的[机器学习课程](https://www.youtube.com/watch?v=UzxYlbK2c7E&list=PLA89DCFA6ADACE599)
 
-#### 2.强化学习
+#### 2、强化学习
 + **图书：[Sutton](http://incompleteideas.net/sutton/)的[强化学习](http://incompleteideas.net/sutton/book/the-book.html)**
 + **课程视频：[David Siver](http://www.csml.ucl.ac.uk/people/silver/)的[强化学习](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PL7-jPKtc4r78-wCZcQn5IqyuWhBZ8fOxT)**
 + **实践环境：[OPENAI](https://openai.com/)**
@@ -33,23 +33,23 @@
 + 知乎推荐：
   - [Deep Reinforcement Learning Papers 2](https://zhuanlan.zhihu.com/p/23600620)
 
-#### 3.图像处理
+#### 3、图像处理
 + **课程视频：[Feifei Li](http://vision.stanford.edu/feifeili/)在Stanford开设的[面向可视化识别的卷积神经元网络](http://cs231n.stanford.edu/)**
 + 课程视频：UCF的CAP 5415[Computer Vision](http://crcv.ucf.edu/courses/CAP5415/Fall2012/)
 + Youtube的[ComputerVisionFoundation频道](https://www.youtube.com/channel/UC0n76gicaarsN_Y9YShWwhw/playlists)
 
-#### 4.自然语言处理
+#### 4、自然语言处理
 + **课程视频：Chris Manning在Stanford开设的[自然语言处理及其深度学习方法](http://web.stanford.edu/class/cs224n/)**
 + 东北大学[朱靖波](http://www.cse.neu.edu.cn/TeacherSinglePage.aspx?teacher_id=a7aef635-aa4d-4c67-892b-6d32dac5d54c&navigation_id=798670aa-6c90-42a3-88de-42ca6e413ba6&module=%u6559%u5E08%u540D%u5F55)、[肖桐](http://www.cse.neu.edu.cn/TeacherSinglePage.aspx?teacher_id=338cc497-24c6-460d-a23f-1ab5a381e3f2&navigation_id=798670aa-6c90-42a3-88de-42ca6e413ba6&module=%u6559%u5E08%u540D%u5F55)老师的自然语言处理开源软件[小牛翻译](http://www.nlplab.com/NiuPlan/NiuTrans.ch.html)
 + 复旦大学[邱锡鹏](http://nlp.fudan.edu.cn/xpqiu/)的[自然语言处理开源书](https://github.com/nndl/nndl.github.io)
 
-#### 5.迁移学习
+#### 5、迁移学习
 + 王晋东不在家的[迁移学习资料列表](https://github.com/wantingallin/transferlearning)
 
-#### 6.推理与机器学习结合
+#### 6、推理与机器学习结合
 + 康奈尔大学的CS7792 [Counterfactual Machine Learning课件等资源](https://www.cs.cornell.edu/courses/cs7792/2016fa/)
 
-#### 7.深度学习
+#### 7、深度学习
 + **图书：GoodFello的[深度学习](http://www.deeplearningbook.org/)**
 + **课程视频：台湾大学[李宏毅](http://speech.ee.ntu.edu.tw/~tlkagk/)教授的[深度学习](https://www.youtube.com/watch?v=IzHoNwlCGnE&list=PLJV_el3uVTsPMxPbjeX7PicgWbY7F8wW9)**
 + 课程视频：多伦多大学[Hinton](http://www.cs.toronto.edu/~hinton/)教授的[深度学习](https://www.youtube.com/watch?v=cbeTc-Urqak&list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9)
