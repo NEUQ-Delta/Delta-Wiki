@@ -102,5 +102,5 @@
   - [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A/playlists)。工程师届的著名演员和导演^-^。学术视频，大片质量；紧跟前沿，轻松诙谐；有一定深度。
   - [Sendex](https://www.youtube.com/user/sentdex)。实战狂人，实践入门最佳帮手。问题现说，代码现敲，说理透彻，产量极高。
   - [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)、[MathTheBeautiful](https://www.youtube.com/channel/UCr22xikWUK2yUW4YxOKXclQ/playlists)。相信我，你一定喜欢这些家伙讲数学的！！！
-+ [github](www.github.com)
-+ [Coursera](www.coursera.org)、[Edx](www.edx.org)、[Edxedge](https://edge.edx.org/login)、[**`Udacity`**](https://cn.udacity.com/)、[Udemy](https://www.udemy.com/)、[学堂在线](http://www.xuetangx.com/)
++ [github](www.github.com)。赶紧开设个账号，你最好的简历，可能就在这里...
++ [Coursera](www.coursera.org)、[Edx](www.edx.org)、[Edxedge](https://edge.edx.org/login)、[**`Udacity`**](https://cn.udacity.com/)、[Udemy](https://www.udemy.com/)、[学堂在线](http://www.xuetangx.com/)。世界的大学，大师在线，永不谢幕！
