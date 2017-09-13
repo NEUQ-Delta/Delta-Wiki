@@ -86,7 +86,7 @@
 + 视频课程不能取代阅读领域经典教材；学习教材的目的是为了得到良好知识体系，更快理解前沿学术论文；有突破性的idea不可能通过只读论文就得到，离开实验和实践的环节，所谓的灵感可能只是海市蜃楼般的错觉。读论文、做实验、读论文、做实验...biu...顶级论文（2030年）:joy:
 
 ## 好东西一箩筐
-+ [嗖...](http://memect.com/)    [好东西传送门](http://weibo.com/haoawesome?refer_flag=1005055014_&is_hot=1)    [机器学习日报新版](http://forum.ai100.com.cn/page/745/) 
++ [嗖...](http://memect.com/)    [好东西传送门](http://weibo.com/haoawesome?refer_flag=1005055014_&is_hot=1)    [机器学习日报新版](http://forum.ai100.com.cn) 
 + [Paper weekly](http://rsarxiv.github.io/)
 + [知乎](www.zhihu.com)
 + [quora](https://www.quora.com/)
