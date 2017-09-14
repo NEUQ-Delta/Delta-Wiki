@@ -62,6 +62,7 @@
 + **课程视频：Gilbert Strang在MIT开设的[线性代数](https://www.youtube.com/watch?v=ZK3O402wf1c&list=PL49CF3715CB9EF31D)带中文字幕的[网易云课堂](http://open.163.com/special/opencourse/daishu.html)**
 + **图书：清华大学张贤达的[《矩阵分析与应用（第2版）》](https://item.jd.com/11367945.html)**
 + *图书：美国工程院院士[Dimitri P. Bertsekas](http://www.mit.edu/~dimitrib/home.html)的[《Introduction to Probability》](https://item.jd.com/11842157.html)*
++ 免费电子书:Introduction to Calculus    [Volume I](http://www.math.odu.edu/~jhh/Volume-1.PDF)    [Volume II](http://www.math.odu.edu/~jhh/Volume-2.PDF)
 + Youtube上的视频：[essence of linear algebra](https://www.youtube.com/watch?v=kjBOesZCoqc&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 
 ## 工程实践
