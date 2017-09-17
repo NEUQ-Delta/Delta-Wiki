@@ -78,7 +78,7 @@
 + 掌握C/C++或Java语言。
 #### 2、竞赛
 + [kaggle](https://www.kaggle.com/)
-  - [Cdiscount’s Image Classification Challenge](https://www.kaggle.com/c/cdiscount-image-classification-challenge)
+  - [Cdiscount’s Image Classification Challenge](https://www.kaggle.com/c/cdiscount-image-classification-challenge)
 + 李开复、搜狗王小川、今日头条张一鸣等发起的[全球AI挑战赛](https://challenger.ai/)
   - [图片场景分类](https://challenger.ai/competition/scene)
   - [骨骼关节点标注](https://challenger.ai/competition/keypoint)
