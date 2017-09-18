@@ -68,6 +68,7 @@
 ## 工程实践
 #### 1、工具和技能
 + **能熟练运用Git；**
++ **使用Docker;**
 + **掌握Python语言，熟悉各种常用工具** [教程1](https://github.com/jrjohansson/scientific-python-lectures)、[教程2](https://github.com/ipython-books/cookbook-code)、[教程3](https://github.com/DonJayamanne/pythonVSCode)、[教程4(中文)](https://github.com/lijin-THU/notes-python)、[教程5](https://github.com/donnemartin/data-science-ipython-notebooks)、[Cheatsheets](https://github.com/kailashahirwar/cheatsheets-ai)
   - Numpy [练习](https://github.com/Kyubyong/numpy_exercises)
   - Pandas [练习](https://github.com/guipsamora/pandas_exercises)
