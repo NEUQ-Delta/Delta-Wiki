@@ -86,7 +86,8 @@
 
 ## 论文和讲座
 + 阅读感兴趣方向的经典、或前沿的学术论文；
-+ 定期对系列算法、方法、工程实践经验进行汇报讲座。
++ 定期对系列算法、方法、工程实践经验进行汇报讲座;
++ 建议用Endnote管理文献。
 
 ## 学习路线
 + 避免过拟合学习，避免贪多求全，尽量举一反三：Many could be better than all! [论证:joy:](https://pdfs.semanticscholar.org/1fbf/32e5312610fc575259640e1e5f2acf62e652.pdf)
