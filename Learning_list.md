@@ -32,7 +32,7 @@
   - [Python code for Reinforcement Learning: An Introduction](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction)
   - [Minimal and Clean Reinforcement Learning Examples](https://github.com/rlcode/reinforcement-learning)
   - [Deep Reinforcement Learning Papers](https://github.com/dennybritz/reinforcement-learning)
-  - [Awesome Deep Reinforcement](https://github.com/aikorea/awesome-rl)
+  - [Awesome Reinforcement Learning](https://github.com/aikorea/awesome-rl)
 + 知乎推荐：
   - [Deep Reinforcement Learning Papers 2](https://zhuanlan.zhihu.com/p/23600620)
 
