@@ -75,6 +75,7 @@
   - Pandas [练习](https://github.com/guipsamora/pandas_exercises)
   - Matplotlib [教程](https://github.com/rougier/matplotlib-tutorial)
   - scipy [教程](https://hub.mybinder.org/user/elegant-scipy-notebooks-hjlhe570/notebooks/index.ipynb)
+  - python [教程](https://www.amazon.com/Python-Tricks-Buffet-Awesome-Features/dp/1775093301/ref=sr_1_1?s=books&ie=UTF8&qid=1514033637&sr=1-1&keywords=python+tricks) [作者在youtube](https://www.youtube.com/channel/UCI0vQvr9aFn27yR6Ej6n5UA/playlists)
 + **会用Sklearn等机器学习工具包** [教程](https://github.com/pandas-dev/sklearn-pandas)
 + **掌握TensorFlow等深度学习框架**  [练习](https://github.com/Kyubyong/tensorflow-exercises) 
 + **阅读重要开源软件的源码；**
