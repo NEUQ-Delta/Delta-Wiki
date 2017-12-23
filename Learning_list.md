@@ -74,7 +74,7 @@
   - Numpy [练习](https://github.com/Kyubyong/numpy_exercises)
   - Pandas [练习](https://github.com/guipsamora/pandas_exercises)
   - Matplotlib [教程](https://github.com/rougier/matplotlib-tutorial)
-  - scipy [教程](https://hub.mybinder.org/user/elegant-scipy-notebooks-hjlhe570/notebooks/index.ipynb)
+  - scipy [教程](https://hub.mybinder.org/user/elegant-scipy-notebooks-hjlhe570/notebooks/index.ipynb)
 + **会用Sklearn等机器学习工具包** [教程](https://github.com/pandas-dev/sklearn-pandas)
 + **掌握TensorFlow等深度学习框架**  [练习](https://github.com/Kyubyong/tensorflow-exercises) 
 + **阅读重要开源软件的源码；**
